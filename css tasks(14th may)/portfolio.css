@@ -1,0 +1,150 @@
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #333;
+  display: flex;
+  justify-content: center;
+  height: 90vh;
+  width: 200vh;
+  align-items: center;
+}
+
+.sidebar {
+  height: 100%;
+  width: 300px;
+  position: fixed;
+  z-index: 1;
+  top: 0; 
+  left: 0;
+  background-color: #444;
+  overflow-x: hidden;
+  padding-top: 16px;
+  align-content: center;
+}
+
+.sidebar a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #ffffff;
+  display: block;
+  padding-top: 40px;
+}
+
+.sidebar a:hover {
+  color: #8b8b8b;
+}
+.sidebar a:active{
+  color: red;
+}
+
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  padding-left: 250%;
+  padding-right: 250%;
+  filter: drop-shadow(0 0 20px  #fff);
+  margin:0 auto;
+}
+
+h1,h3{
+  color: white;
+}
+.content{
+  padding-top: 30%;
+  padding-bottom: 5%;
+  padding-left: 23%;
+}
+h3{
+  padding-left: 10%;
+}
+.icons.fa{
+  background:red;
+  color: white;
+  font-size: xx-large;
+  border-radius: 50%;
+  height:50px;
+  width:50px;
+  text-align: center;
+  align-content: center;
+
+}
+.icons{
+  padding-top: 40%;
+  
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  padding-top: 40%;
+}
+
+.icons a {
+  margin: 0 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  background: red;
+  border-radius: 50%;
+  color: white;
+  font-size: xx-large;
+  text-decoration: none;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: -5px;
+  left: 110%;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent black transparent transparent;
+}
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.tooltip{
+  font-family:cursive;
+  color: white;
+  padding-left: 25px;
+}
+
+
+
+
+
