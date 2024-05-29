@@ -1,0 +1,33 @@
+.container {
+    background-image: url("background.jpg");
+    border: 2px solid black;
+    margin: 20px;
+  }
+  
+  .image {
+    width: 200px;
+    height: auto;
+  }
+  
+  .icon-link {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .icon {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .youtube-link {
+    color: blue;
+  }
+  
+  .youtube-link:hover {
+    color: red;
+  }
+  
+  .youtube-link:active {
+    color: green;
+  }
+  
