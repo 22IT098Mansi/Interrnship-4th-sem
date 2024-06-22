@@ -12,9 +12,9 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 
 ### 1️⃣ Week 1 
 
-#### 13th May 2024
+### 13th May 2024
 
-#### Day-By- Day Progress
+### Day-By- Day Progress
 
 ### 2️⃣ Week 2
 
