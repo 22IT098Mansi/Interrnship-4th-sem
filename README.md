@@ -9,6 +9,8 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 ## Start Of Internship
 
 ### 1️⃣ Week 1 
+
+####  13th May 
   - Introduction to the company.
   - Training in HTML, CSS and JavaScript Topics
 
