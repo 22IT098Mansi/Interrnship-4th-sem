@@ -5,8 +5,6 @@
 #✨ Summer Internship in ReactJS 2024 ✨
 Welcome to my GitHub repository for the Summer Internship 2024! This project showcases the work done during the internship,including practical insights and hands-on experience in ReactJS.
 
-## Introduction
-
 
 ## Start Of Internship
 
