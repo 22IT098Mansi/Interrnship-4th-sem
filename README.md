@@ -126,7 +126,7 @@ Assigned Tasks:
 - Updating: Methods like static getDerivedStateFromProps(), shouldComponentUpdate(), render(), getSnapshotBeforeUpdate(), and componentDidUpdate().
 - Higher Order Components (HOC): Learning about HOCs, a pattern where a function takes a component and returns a new component.
 
-- Render Props: Understanding render props, a technique for sharing code between React components using a prop whose value is a function.
+- Render Props: Understanding render props, a technique for sharing code between React components using a prop whose value is a function. 
 
 - Context API: Using the Context API to manage global state and avoid prop drilling.
 
