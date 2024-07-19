@@ -31,7 +31,7 @@
 - Anatomy and Basics of HTML: Understanding the structure of an HTML document including DOCTYPE, html, head, and body tags.
 - Basic Tags: Exploring essential HTML tags such as <p>, <a>, <div>, <span>, and <img>.
 - Formatting: Learning text formatting tags like <b>, <i>, <u>, and <em>.
-Hands-on Practice:
+#### Hands-on Practice:
 
 - Developing web pages using various tags such as forms (<form>, <input>, <button>), semantics (<header>, <footer>, <article>), media (<video>, <audio>), block and inline elements, and APIs.
 #### Introduction to CSS:
