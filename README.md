@@ -14,7 +14,7 @@ The internship provided a comprehensive understanding of:
  This README file outlines my day-to-day progress, showcasing the projects and tasks completed during the internship. Each section is organized by week, detailing the specific topics covered and the practical assignments accomplished. This document serves as both a reflection of my learning journey and a resource for anyone interested in ReactJS and web development.
 ## Start Of Internship 
 
-### Week 1
+## Week 1
 
 - The Internship Started with introduction to the company and its structure, previous projects and achievements. It Was followed with introduction to the other employees.
 - Next We were briefed on the training process and how we need to complete the assigned tasks, followed by setting up the development environment and getting started with the training. 
@@ -31,7 +31,7 @@ The internship provided a comprehensive understanding of:
 - Advance topics like JS BOM, JS DOM, etc. 
 
 ### Day-by-Day Progress 
-### Day 1
+## Day 1
 #### Introduction to the Company:
 
 - Brief overview of Techify Solutions, its mission, key offerings, and organizational structure.
@@ -56,7 +56,7 @@ Box Model: Exploring the CSS box model including margins, borders, padding, and 
 Assigned Tasks:
 
 - Completing tasks related to HTML and CSS basics, building simple web pages, and applying styles.
-### Day 2
+## Day 2
 #### Advanced CSS Topics:
 
 - Positioning: Understanding relative, absolute, fixed, and sticky positioning.
@@ -77,7 +77,7 @@ Assigned Tasks:
 Assigned Tasks:
 
 - Completing tasks related to advanced CSS and Bootstrap, enhancing previously created web pages with new styles and components.
-### Day 3
+## Day 3
 #### JavaScript Basics:
 
 - Introduction to JavaScript: Understanding the role of JavaScript in web development.
@@ -95,7 +95,7 @@ Assigned Tasks:
 #### Assigned Tasks:
 
 - Completing tasks related to JavaScript basics and DOM manipulation.
-### Day 4
+## Day 4
 #### Advanced JavaScript:
 
 - Objects and Arrays: Understanding and using JavaScript objects and arrays.
@@ -114,7 +114,7 @@ Assigned Tasks:
 #### Assigned Tasks:
 
 - Completing tasks related to advanced JavaScript and React basics.
-### Day 5
+## Day 5
 #### Advanced React.js:
 
 - State Management: Using state and context API for managing state in React applications.
@@ -129,8 +129,8 @@ Assigned Tasks:
 - Receiving feedback from mentors and peers.
 - Reflecting on the learning experience and identifying areas for further improvement.
 
-### Week 2
-### Day 1 (20/05/24)
+## Week 2
+## Day 1 (20/05/24)
 #### Topics Covered:
 
 - ReactJS Component Lifecycle Methods: Understanding the different phases in a component's lifecycle including mounting, updating, and unmounting.
@@ -146,7 +146,7 @@ Assigned Tasks:
 #### Task:
 
 - Create a dashboard screen with header, dashboard, and footer components. Use lifecycle methods to manage the state and data fetching.
-### Day 2 (21/05/24)
+## Day 2 (21/05/24)
 #### Topics Covered:
 
 - React Routing: Learning about routing in React applications using libraries like react-router-dom.
@@ -156,7 +156,7 @@ Assigned Tasks:
 
 - Follow React Routing tutorials.
 - Implement routing in a React project by creating routes for different components such as Home, About, and Contact pages.
-### Day 3 (22/05/24)
+## Day 3 (22/05/24)
 #### Topics Covered:
 
 - React Hooks: useState, useEffect,etc.
@@ -165,12 +165,12 @@ Assigned Tasks:
 #### Tasks:
 
 - Build a basic template for a user guide in ReactJS using hooks. Include components like Introduction, Usage, and FAQs with state management for toggling content visibility.
-### Day 4 (23/05/24)
+## Day 4 (23/05/24)
 #### Tasks:
 
 - Restart the project in HTML, CSS, and JS due to a requirement change.
 - Create a basic template, sidebar, and login page for the user guide. Implement responsive design using CSS Grid and Flexbox.
-### Day 5 (24/05/24)
+## Day 5 (24/05/24)
 #### Topics Covered:
 
 - Advanced React Concepts
